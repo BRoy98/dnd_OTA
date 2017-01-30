@@ -1,9 +1,9 @@
 #Common OTA url for all devices
-ota_url=
+ota_url=https://raw.githubusercontent.com/Darkness-reDefined/dnd_OTA/master/dndOTA.xml
 release_type=Stable
 device_name=ro.product.device
  
-#example ro.validus.version=validus_onyx-6.0.1.beta.9.2-Official-20160509
+#define them 
 version_source=ro.dnd.version
 version_delimiter=-
 version_position=3
